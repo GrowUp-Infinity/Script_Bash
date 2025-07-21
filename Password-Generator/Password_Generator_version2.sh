@@ -7,7 +7,7 @@ echo "Simple script générateur de mot de passe !"
 # Lire la longueur du mot de passe
 while true;
   do
-     echo "Veuillez choisir la longueur du mot de passe entre 1 et 30 caractères : "
+     echo "Veuillez choisir la longueur du mot de passe entre 1 à 30 caractères : "
      read PASS_LENGTH
 
  # Vérifie si PASS_LENGTH est un nombre entre 1 et 30
