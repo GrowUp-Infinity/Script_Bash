@@ -40,7 +40,7 @@ while true; do
 done
 
 # Demander longueur et nombre de mots de passe
-read -p "Entrez la longueur du mot de passe (entre 1 et 30) : " PASS_LENGTH
+read -p "Entrez la longueur du mot de passe (entre 1 à 30) : " PASS_LENGTH
 read -p "Entrez un nombre de mots de passe à générer : " PASS_COUNT
 
 # Longueur du jeu de caractères
