@@ -7,7 +7,7 @@ echo "Ceci est un simple générateur de mot de passe avec des lettres limitées
 # Boucle jusqu'à ce que la saisie soit correcte
 while true;
   do
-     echo "Entrez une longueur du mot de passe entre 1 et 30 : "
+     echo "Entrez une longueur du mot de passe entre 1 à 30 : "
      read PASS_LENGTH
 
 # Vérifie si PASS_LENGTH est un nombre entre 1 et 30
